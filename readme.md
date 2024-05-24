@@ -7,13 +7,12 @@ django-boiler-plate is a Django project template designed to help you get starte
 3. Django Admin: Enhanced and customizable admin interface using Jazzmin.
 4. Unit Testing: Example unit tests for the account app to ensure code quality and reliability.
 5. Faker data user factory_boy
+6. Websocket for case notification
 
 
 
 ## Installation
 Follow these steps to set up the project on your local machine:
-
-
 
 
 ### Prerequisites

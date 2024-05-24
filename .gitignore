@@ -8,3 +8,7 @@ core.egg-info/
 venv
 .vscode
 
+staticfiles
+media
+
+.env
